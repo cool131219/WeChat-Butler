@@ -1,12 +1,9 @@
 ---
 name: reply-wechat-message
+slug: wechat-butler
+displayName: 微信管家 / WeChat Butler
 description: "微信AI助手 — 主动发消息 + 自动回复 / WeChat AI assistant — send messages & auto-reply"
-metadata:
-  openclaw:
-    emoji: "💬"
-    requires:
-      bins: ["python"]
-      pip: ["pyautogui", "pygetwindow", "pyperclip", "requests", "Pillow", "numpy"]
+agent_created: true
 ---
 
 # 微信管家 / WeChat Butler

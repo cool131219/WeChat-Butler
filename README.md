@@ -27,6 +27,7 @@ Extract → right-click install.ps1 → Run with PowerShell
 2. 安装 Python 依赖（pyautogui, pygetwindow 等）
 3. 重启 OpenClaw
 
+**下载后，让open claw自己安装/After downloading, tell OpenClaw to perform self-installation.
 ---
 
 ## 使用 / Usage

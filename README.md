@@ -7,7 +7,7 @@ WeChat AI assistant — no complicated setup. Just install WeChat, then send mes
 
 ## 准备 / Prerequisites
 
-- **Windows 电脑**，已安装微信并登录 / WeChat installed and logged in on Windows
+- **Windows 电脑**，已安装微信并登录 / WeChat installed and logged in on Windows(测试时使用是Windows11系统/Testing environment: Windows 11 system)
 - **微信固定在任务栏** / Pin WeChat to taskbar（点击任务栏微信图标能直接打开 / so clicking the taskbar icon opens it）
 - **OpenClaw** 已安装并运行 / OpenClaw installed and running
 
